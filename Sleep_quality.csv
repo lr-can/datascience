@@ -1,0 +1,7 @@
+﻿Variable;Odd_ratio;lower_conf;upper_conf;P
+Skin color: brown / black;0.61;0.29;1.25;0.18
+Normalized exposure level (NEL) ≥ 80 dB(A);1.67;0.79;3.53;0.17
+Drug use for depression or anxiety;0.33;0.07;1.55;0.16
+Irregular daily meals;2.07;0.90;4.78;0.08
+Coffee or tea consumption;0.61;0.31;1.24;0.18
+Considers that noise does not impair sleep;0.59;0.28;1.25;0.17

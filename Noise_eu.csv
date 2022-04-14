@@ -1,0 +1,11 @@
+﻿City; Country;Population_sqrm;Noise pollution score;Air traffic passengers;People exposed to road traffic noise;Congestion level;People exposed to railway traffic noise;Noise score
+Paris; France;10043;1.31;108;5506400;39%;842500;8.4
+London; United Kingdom;16572;0.95;181;2647600;38%;591200;8.21
+Rome; Italy;7256;1.19;49.4;1728200;38%;136300;4.96
+Madrid; Spain;11397;1.17;61.7;1432100;23%;NaN;4.69
+Barcelona; Spain;11437;1.36;52.7;465300;29%;67000;4.55
+Manchester; United Kingdom;11258;1.05;29.4;873800;33%;54100;4.4
+Vienna; Austria;14177;0.07;31.7;1751600;28%;481500;4.33
+Berlin; Germany;7625;0.69;35.6;664500;32%;199600;3.66
+Birmingham; United Kingdom;11359;0.89;12.7;756000;28%;55700;3.64
+Milan; Italy;6879;0.78;35.4;952199;31%;69900;3.41
